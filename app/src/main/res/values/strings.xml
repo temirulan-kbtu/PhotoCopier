@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhotoCopier</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_printer">PhotoCopier</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_new_scan">NewScan</string>
+    <string name="title_activity_scan_history">ScanHistory</string>
+    <string name="title_activity_print_history">PrintHistory</string>
+    <string name="title_activity_new_print">NewPrint</string>
+</resources>
